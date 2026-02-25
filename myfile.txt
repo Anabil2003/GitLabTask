@@ -1,1 +1,2 @@
 This file was created with a wrong name.
+File name corrected successfully
